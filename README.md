@@ -16,7 +16,7 @@ I break things to understand how to build them better. Currently pursuing my **M
 
 - 🔭 Currently deep-diving into **firmware security, CAN bus / automotive protocols, and side-channel analysis**
 - ⚡ Building on **ESP32** — secure infra nodes, custom routing/auth layers, and side-channel experimentation
-- 🏆 **AIR 10** nationally — InCTFjr | 20th internationally — Cyber Jawara 2024 | 183rd/385 — TCP1P CTF 2024 | Active competitor, team [Xfinite_](https://ctftime.org/team/357526) on CTFtime
+- 🏆 **AIR 10** nationally — InCTFjr | 20th internationally — Cyber Jawara 2024 | 183rd/385 — TCP1P CTF 2024 | 27th — Epsilon Hardware Security CTF (Embedded & low-level security) | Active competitor, team [Xfinite_](https://ctftime.org/team/357526) on CTFtime
 - 🔬 Published researcher — Lightning Network privacy (Springer LNCS, MDAI 2025 · accepted MDAI 2026)
 - 💼 Ex–Cloud Security Analyst / DevSecOps Engineer @ **Deloitte USI** — Prisma Cloud, CrowdStrike Falcon, CSPM/SSPM/ASPM
 - 🐛 Active bug bounty hunter — findings across Immunefi/HackenProof targets
