@@ -105,7 +105,8 @@ Investigated Lightning Network privacy vulnerabilities via routing algorithms, f
 - 🥇 AIR 10 — InCTFjr (National Cybersecurity CTF)
 - 🥈 20th — Cyber Jawara International 2024 (620 pts)
 - 🥉 27th — Epsilon Hardware Security CTF (Embedded & low-level security)
-- 🎖️ 183rd/385 teams — TCP1P CTF 2024, International Event (400 pts)
+- 🎖️ 183rd — TCP1P CTF 2024, International Event (400 pts)
+- 🎖️ 90th / 1033 — Iron CTF 2024
 
 Active CTF competitor with team **[Xfinite_](https://ctftime.org/team/357526)** — full competition history on CTFtime.
 
