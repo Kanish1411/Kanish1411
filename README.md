@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Kanishkar K 👋</h1>
 
-<h3 align="center">Offense-minded Security Researcher | Embedded & Cloud Security</h3>
+<h3 align="center">Embedded & Cloud Security | Cybersecurity Researcher </h3>
 
 <p align="center">
   <a href="http://www.linkedin.com/in/kanishkarkannan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://orcid.org/0009-0003-4392-9784"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white"/></a>
   <a href="mailto:Kanishkark1411@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://medium.com/@kanishkark1411"> <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"/></a>
 </p>
 
 ---
@@ -14,14 +15,15 @@
 
 I break things to understand how to build them better. Currently pursuing my **MTech in Cybersecurity at Amrita Vishwa Vidyapeetham, Coimbatore**, after a B.Tech in CSE (Cybersecurity & Blockchain Technology) at SASTRA Deemed University (CGPA 8.62). My interests sit at the intersection of **embedded/hardware security, offensive security, and applied cryptography research**.
 
-- 🔭 Currently deep-diving into **firmware security, CAN bus / automotive protocols, and side-channel analysis**
-- ⚡ Building on **ESP32** — secure infra nodes, custom routing/auth layers, and side-channel experimentation
-- 🏆 **AIR 10** nationally — InCTFjr | 20th internationally — Cyber Jawara 2024 | 183rd/385 — TCP1P CTF 2024 | 27th — Epsilon Hardware Security CTF (Embedded & low-level security) | Active competitor, team [Xfinite_](https://ctftime.org/team/357526) on CTFtime
+-  🔭 Exploring firmware security, CAN bus / automotive protocols, side-channel analysis, and reverse engineering
+- ⚡ Building secure systems on ESP32, including custom networking, authorization layers, and embedded infrastructure
+- 🏆 **AIR 10** nationally — InCTFjr | 20th internationally — Cyber Jawara 2024 | 27th — Epsilon Hardware Security CTF | Active competitor, team [Xfinite_](https://ctftime.org/team/357526) on CTFtime
 - 🔬 Published researcher — Lightning Network privacy (Springer LNCS, MDAI 2025 · accepted MDAI 2026)
 - 💼 Ex–Cloud Security Analyst / DevSecOps Engineer @ **Deloitte USI** — Prisma Cloud, CrowdStrike Falcon, CSPM/SSPM/ASPM
 - 🐛 Active bug bounty hunter — findings across Immunefi/HackenProof targets
-- 📖 Currently sharpening: trees/graphs (DSA), TCP/TLS internals, hardware attack chains
 - 📫 Open to opportunities in **embedded security, offensive security, and security research**
+
+
 
 ---
 
@@ -107,6 +109,15 @@ Investigated Lightning Network privacy vulnerabilities via routing algorithms, f
 
 Active CTF competitor with team **[Xfinite_](https://ctftime.org/team/357526)** — full competition history on CTFtime.
 
----
+## 🔬 Research Interests
 
-<p align="center"><i>"Understanding a system well enough to build it — and well enough to break it."</i></p>
+- Firmware Security
+- Embedded Systems Security
+- Hardware Hacking
+- Side-Channel Analysis
+- Reverse Engineering
+- Automotive Security (CAN)
+- Applied Cryptography
+- Binary Exploitation
+
+---
